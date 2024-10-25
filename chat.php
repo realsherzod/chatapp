@@ -1,5 +1,5 @@
 <?php
-$token = '7244466599:AAF-EqRXMLwIxZY02AFtveJUq8uksNMql3w';
+$token = 'token';
 $botUsername = 'xmavechatbot';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
